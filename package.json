@@ -1,0 +1,17 @@
+{
+  "name": "parse-bug-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mongodb-runner start && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb-runner": "^4.8.1",
+    "parse": "^3.0.0",
+    "parse-server": "^4.5.0"
+  }
+}
